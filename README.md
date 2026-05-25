@@ -142,4 +142,4 @@ O dashboard segue a paleta de cores oficial do Xbox Game Pass, definida na aba `
 
 ---
 
-*Projeto desenvolvido como desafio de visualização de dados em Excel — 2024.*
+*Projeto desenvolvido como desafio de visualização de dados em Excel*
